@@ -1,0 +1,15 @@
+2025-03-27 14:29:09,127 - INFO - Opening the link
+2025-03-27 14:29:43,448 - INFO - Special Fare Offer:   
+if Regular enter 0
+   if Student Enter 1
+   if Senior Citizen Enter 2
+   if Armed Forec Enter 3
+   if Doctor and Nurse Enter 4
+2025-03-27 14:30:25,572 - INFO - Adults: 12+ years
+Children: 2y-12y
+Infants: below 2y
+ Travel Class:
+   if Economy Enter 0,
+   if Premium Economy Enter 1,
+   if Business Enter 2,
+   if First Class Enter 3

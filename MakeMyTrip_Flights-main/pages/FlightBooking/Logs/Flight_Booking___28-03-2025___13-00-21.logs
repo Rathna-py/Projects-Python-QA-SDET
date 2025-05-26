@@ -1,0 +1,21 @@
+2025-03-28 13:00:26,781 - INFO - Opening the link
+2025-03-28 13:00:34,274 - INFO - Special Fare Offer:   
+if Regular enter 0
+   if Student Enter 1
+   if Senior Citizen Enter 2
+   if Armed Forec Enter 3
+   if Doctor and Nurse Enter 4
+2025-03-28 13:00:34,438 - INFO - 
+Adults: 12+ years
+Children: 2y-12y
+Infants: below 2y
+ Travel Class:
+   if Economy Enter 0,
+   if Premium Economy Enter 1,
+   if Business Enter 2,
+   if First Class Enter 3
+2025-03-28 13:00:35,111 - INFO - Successfully Selected: roundtrip
+2025-03-28 13:00:46,122 - INFO - Successfully selected --- From --- place
+2025-03-28 13:00:51,442 - INFO - Successfully selected  --- To  --- place
+2025-03-28 13:00:52,299 - INFO - Successfully selected Departure date
+2025-03-28 13:00:52,311 - ERROR - Trip Type Select Function Error: time data '05 July 2025' does not match format '%d %b %Y'

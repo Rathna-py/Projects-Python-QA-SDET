@@ -1,0 +1,20 @@
+2025-03-27 14:35:30,373 - INFO - Opening the link
+2025-03-27 14:35:50,385 - INFO - Special Fare Offer:   
+if Regular enter 0
+   if Student Enter 1
+   if Senior Citizen Enter 2
+   if Armed Forec Enter 3
+   if Doctor and Nurse Enter 4
+2025-03-27 14:35:55,651 - INFO - 
+Adults: 12+ years
+Children: 2y-12y
+Infants: below 2y
+ Travel Class:
+   if Economy Enter 0,
+   if Premium Economy Enter 1,
+   if Business Enter 2,
+   if First Class Enter 3
+2025-03-27 14:36:38,068 - INFO - Successfully Selected: oneway
+2025-03-27 14:37:18,211 - INFO - Successfully selected --- From --- place
+2025-03-27 14:37:38,196 - INFO - Successfully selected  --- To  --- place
+2025-03-27 14:40:16,102 - INFO - Successfully selected Departure date

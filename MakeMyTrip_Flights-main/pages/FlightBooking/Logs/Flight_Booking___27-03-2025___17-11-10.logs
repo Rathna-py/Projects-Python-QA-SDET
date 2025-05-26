@@ -1,0 +1,20 @@
+2025-03-27 17:11:16,812 - INFO - Opening the link
+2025-03-27 17:11:24,451 - INFO - Special Fare Offer:   
+if Regular enter 0
+   if Student Enter 1
+   if Senior Citizen Enter 2
+   if Armed Forec Enter 3
+   if Doctor and Nurse Enter 4
+2025-03-27 17:11:24,578 - INFO - 
+Adults: 12+ years
+Children: 2y-12y
+Infants: below 2y
+ Travel Class:
+   if Economy Enter 0,
+   if Premium Economy Enter 1,
+   if Business Enter 2,
+   if First Class Enter 3
+2025-03-27 17:11:25,291 - INFO - Successfully Selected: roundtrip
+2025-03-27 17:11:35,557 - INFO - Successfully selected --- From --- place
+2025-03-27 17:11:41,101 - INFO - Successfully selected  --- To  --- place
+2025-03-27 17:11:41,250 - ERROR - Trip Type Select Function Error: 'Jul' is not in list
