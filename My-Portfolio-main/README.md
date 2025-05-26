@@ -1,5 +1,5 @@
 # Jayarathna M - Portfolio
-Welcome to my professional portfolio! This repository showcases my expertise in IoT networking, automation testing, and web development projects.
+Welcome to my professional portfolio! This repository showcases my expertise in automation testing, and web development projects.
 
 ## 🚀 About Me
 QA Automation Engineer with expertise in Selenium, Python, and network protocols. Skilled in manual and automated testing, API validation, and regression testing. Experienced in test planning, debugging, and ensuring high-quality software delivery across platforms. Passionate about optimizing testing processes and enhancing product reliability.
